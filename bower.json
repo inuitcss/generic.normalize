@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "homepage": "https://github.com/inuitcss/generic.normalize",
   "authors": [
-    "Harry Roberts <harry@csswizardry.com>"
+    "Harry Roberts <harry@csswizardry.com>",
+    "Nicolas Gallagher <nicolasgallagher@gmail.com>"
   ],
   "description": "Nicolas Gallagher’s Normalize.css used in the inuitcss framework",
   "main": "_generic.normalize.scss",
@@ -13,5 +14,5 @@
     "css",
     "normalize"
   ],
-  "license": "Apache"
+  "license": "MIT"
 }
